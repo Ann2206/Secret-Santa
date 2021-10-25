@@ -2,6 +2,7 @@
 It's a gift exchange application that can be useful during thr Christmas holidays. The idea of this application is:
 * user registers and writes any information about himself and his interests;
 * the application generates him a person who he will have to send a gift to.
+
 #Roles: 
 - guest: he can visit the application, see current users (without their personal information);
 - user: the person who is registrated in this application. He can see current users and personal information about user who he will send gift to.
