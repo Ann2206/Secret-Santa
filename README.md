@@ -1,5 +1,5 @@
 # Secret-Santa
-It's a gift exchange application that can be useful during thr Christmas holidays.
+It's a gift exchange application that can be useful during the Christmas holidays.
 
 The idea of this application is:
 * user registers and writes any information about himself and his interests;
